@@ -110,8 +110,8 @@ func main() {
 ### Otros
 |Operador|Descripción|
 |--------|-----------|
-|`&`|dirección de / crear pointer|
-|`*`|desreferenciar pointer|
+|`*`|dirección de / crear pointer|
+|`&`|desreferenciar pointer|
 |`<-`|enviar / recibir (ver 'Channels' abajo)|
 
 ## Declaraciones
@@ -681,5 +681,5 @@ func main() {
 ```
 
 
-Traducido de [Golang cheat sheet de Ariel Mashraki](github.com/a8m/go-lang-cheat-sheet)
+Traducido de [Golang cheat sheet de Ariel Mashraki](github.com/a8m/go-lang-cheat-sheet) \
 Este texto es sólo una traducción y su contenido no me pertenece, a excepción de algunos comentarios y descripciones.
