@@ -1,6 +1,6 @@
 # Hoja de referencia de Go / Go Cheat Sheet
 
-Traducido de [Golang cheat sheet de Ariel Mashraki](github.com/a8m/go-lang-cheat-sheet)\
+Traducido de [Golang cheat sheet de Ariel Mashraki](https://github.com/a8m/go-lang-cheat-sheet)\
 Las *keywords* en su mayoría se conservan en su idioma original.
 
 # Índice
@@ -681,5 +681,5 @@ func main() {
 ```
 
 
-Traducido de [Golang cheat sheet de Ariel Mashraki](github.com/a8m/go-lang-cheat-sheet) \
+Traducido de [Golang cheat sheet de Ariel Mashraki](https://github.com/a8m/go-lang-cheat-sheet) \
 Este texto es sólo una traducción y su contenido no me pertenece, a excepción de algunos comentarios y descripciones.
